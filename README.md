@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 Check out my featured projects on [https://markonenadovic.vercel.app/](https://markonenadovic.vercel.app/)
-
 - 📫 How to reach me **markonenadovic2005@gmail.com**
 
 - ⚡ Fun fact **I can bench 130kg 💪**
