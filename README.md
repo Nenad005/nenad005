@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nenad005" alt="nenad005" /></a> </p>
 
-- 🔭 I’m currently working on [NenadTips](https://github.com/Nenad005/NenadTips)
+- 🔭 I’m currently working on [FonRaspored](https://github.com/Nenad005/fon-raspored)
 
 - 🌱 I’m currently learning **Flask**
 
