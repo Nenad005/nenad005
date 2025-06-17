@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **markonenadovic2005@gmail.com**
 
-- ⚡ Fun fact **I can bench 130kg 💪**
+- ⚡ Fun fact **I can bench 150kg 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
