@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Alladin AI**
 
-- 🌱 I’m currently learning **RAG Systems and AI Agentic Workflows**
+- 🌱 I’m currently learning **RAG Systems, AI Agentic Workflows, and AI Memory Management**
 
 - 📫 How to reach me **markonenadovic2005@gmail.com**
 
