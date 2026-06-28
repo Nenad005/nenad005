@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Alladin AI**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **RAG System and AI Agentic Workflows**
 
 - 📫 How to reach me **markonenadovic2005@gmail.com**
 
